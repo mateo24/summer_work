@@ -1,0 +1,950 @@
+Format: GPGGA
+Time: 054408.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6B
+
+Format: GPGGA
+Time: 054409.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6A
+
+Format: GPGGA
+Time: 054410.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054411.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054412.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054413.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054414.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054415.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054416.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054417.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054418.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6A
+
+Format: GPGGA
+Time: 054419.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6B
+
+Format: GPGGA
+Time: 054420.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054421.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054422.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054423.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054424.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054425.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054426.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054427.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054428.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *69
+
+Format: GPGGA
+Time: 054429.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *68
+
+Format: GPGGA
+Time: 054430.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054431.00
+Latitude: 0 Direction: 03
+Longitude: 9.35 Direction: *5D
+
+Format: GPGGA
+Time: 054432.00
+Latitude: 0 Direction: 03
+Longitude: 9.35 Direction: *5E
+
+Format: GPGGA
+Time: 054433.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054434.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054435.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054436.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054437.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054438.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *68
+
+Format: GPGGA
+Time: 054439.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *69
+
+Format: GPGGA
+Time: 054440.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054441.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054442.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054443.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054444.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054445.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054446.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054447.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054448.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6F
+
+Format: GPGGA
+Time: 054449.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6E
+
+Format: GPGGA
+Time: 054450.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054451.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054452.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054453.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054454.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054455.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054456.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054457.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054458.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6E
+
+Format: GPGGA
+Time: 054459.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6F
+
+Format: GPGGA
+Time: 054500.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054501.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054502.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054503.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054504.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054505.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054506.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054507.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054508.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6A
+
+Format: GPGGA
+Time: 054509.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6B
+
+Format: GPGGA
+Time: 054510.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054511.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054512.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054513.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054514.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054515.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054516.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054517.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054518.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6B
+
+Format: GPGGA
+Time: 054519.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6A
+
+Format: GPGGA
+Time: 054520.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054521.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054522.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054523.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054524.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054525.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054526.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054527.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054528.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *68
+
+Format: GPGGA
+Time: 054529.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *69
+
+Format: GPGGA
+Time: 054530.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054531.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054532.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054533.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054534.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054535.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054536.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054537.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054538.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *69
+
+Format: GPGGA
+Time: 054539.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *68
+
+Format: GPGGA
+Time: 054540.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054541.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054542.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054543.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054544.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054545.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054546.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054547.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054548.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6E
+
+Format: GPGGA
+Time: 054549.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6F
+
+Format: GPGGA
+Time: 054550.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054551.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054552.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054553.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054554.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054555.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054556.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054557.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054558.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6F
+
+Format: GPGGA
+Time: 054559.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6E
+
+Format: GPGGA
+Time: 054600.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054601.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054602.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054603.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054604.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054605.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054606.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054607.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054608.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *69
+
+Format: GPGGA
+Time: 054609.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *68
+
+Format: GPGGA
+Time: 054610.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054611.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054612.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054613.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054614.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054615.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054616.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054617.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054618.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *68
+
+Format: GPGGA
+Time: 054619.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *69
+
+Format: GPGGA
+Time: 054620.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054621.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054622.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054623.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054624.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054625.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054626.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054627.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054628.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6B
+
+Format: GPGGA
+Time: 054629.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6A
+
+Format: GPGGA
+Time: 054630.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054631.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054632.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054633.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054634.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054635.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054636.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054637.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054638.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6A
+
+Format: GPGGA
+Time: 054639.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6B
+
+Format: GPGGA
+Time: 054640.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054641.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054642.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054643.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054644.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054645.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054646.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054647.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054648.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6D
+
+Format: GPGGA
+Time: 054649.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6C
+
+Format: GPGGA
+Time: 054650.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054651.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054652.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054653.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054654.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054655.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054656.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054657.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054658.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6C
+
+Format: GPGGA
+Time: 054659.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *6D
+
+Format: GPGGA
+Time: 054700.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054701.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054702.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054703.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054704.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054705.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054706.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
+Format: GPGGA
+Time: 054707.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054708.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *68
+
+Format: GPGGA
+Time: 054709.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *69
+
+Format: GPGGA
+Time: 054710.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *61
+
+Format: GPGGA
+Time: 054711.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *60
+
+Format: GPGGA
+Time: 054712.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *63
+
+Format: GPGGA
+Time: 054713.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *62
+
+Format: GPGGA
+Time: 054714.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *65
+
+Format: GPGGA
+Time: 054715.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *64
+
+Format: GPGGA
+Time: 054716.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *67
+
+Format: GPGGA
+Time: 054717.00
+Latitude: 0 Direction: 00
+Longitude: 99.99 Direction: *66
+
