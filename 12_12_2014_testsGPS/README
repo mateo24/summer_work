@@ -1,0 +1,8 @@
+These tests uses the modules:
+
+	-NEO-6M
+	-VK16HX
+The purposes of these tests is to compare teh time accuracy between the modules and general
+response to a gps signal. 
+
+Two videos were taken showing the performance of both GPSs in parallel

@@ -1,0 +1,110 @@
+Format: GPGGA
+Time: 001620.00
+Latitude: 2730.00884 Direction: S
+Longitude: 15300.84600 Direction: E
+
+Format: GPGGA
+Time: 001621.00
+Latitude: 2730.00872 Direction: S
+Longitude: 15300.84557 Direction: E
+
+Format: GPGGA
+Time: 001622.00
+Latitude: 2730.00981 Direction: S
+Longitude: 15300.84454 Direction: E
+
+Format: GPGGA
+Time: 001623.00
+Latitude: 2730.01001 Direction: S
+Longitude: 15300.84389 Direction: E
+
+Format: GPGGA
+Time: 001624.00
+Latitude: 2730.01071 Direction: S
+Longitude: 15300.84225 Direction: E
+
+Format: GPGGA
+Time: 001625.00
+Latitude: 2730.01131 Direction: S
+Longitude: 15300.84125 Direction: E
+
+Format: GPGGA
+Time: 001626.00
+Latitude: 2730.01247 Direction: S
+Longitude: 15300.83998 Direction: E
+
+Format: GPGGA
+Time: 001627.00
+Latitude: 2730.01226 Direction: S
+Longitude: 15300.83905 Direction: E
+
+Format: GPGGA
+Time: 001628.00
+Latitude: 2730.01331 Direction: S
+Longitude: 15300.83944 Direction: E
+
+Format: GPGGA
+Time: 001629.00
+Latitude: 2730.01355 Direction: S
+Longitude: 15300.84111 Direction: E
+
+Format: GPGGA
+Time: 001630.00
+Latitude: 2730.01363 Direction: S
+Longitude: 15300.84400 Direction: E
+
+Format: GPGGA
+Time: 001631.00
+Latitude: 2730.01338 Direction: S
+Longitude: 15300.84639 Direction: E
+
+Format: GPGGA
+Time: 001632.00
+Latitude: 2730.01405 Direction: S
+Longitude: 15300.84829 Direction: E
+
+Format: GPGGA
+Time: 001633.00
+Latitude: 2730.01450 Direction: S
+Longitude: 15300.85051 Direction: E
+
+Format: GPGGA
+Time: 001634.00
+Latitude: 2730.01833 Direction: S
+Longitude: 15300.85295 Direction: E
+
+Format: GPGGA
+Time: 001635.00
+Latitude: 2730.01947 Direction: S
+Longitude: 15300.85451 Direction: E
+
+Format: GPGGA
+Time: 001636.00
+Latitude: 2730.02093 Direction: S
+Longitude: 15300.85394 Direction: E
+
+Format: GPGGA
+Time: 001637.00
+Latitude: 2730.02192 Direction: S
+Longitude: 15300.85367 Direction: E
+
+Format: GPGGA
+Time: 001638.00
+Latitude: 2730.02310 Direction: S
+Longitude: 15300.85322 Direction: E
+
+Format: GPGGA
+Time: 001639.00
+Latitude: 2730.02374 Direction: S
+Longitude: 15300.85343 Direction: E
+
+Format: GPGGA
+Time: 001640.00
+Latitude: 2730.00994 Direction: S
+Longitude: 15300.86897 Direction: E
+
+Format: GPGGA
+Time: 001641.00
+Latitude: 2729.99831 Direction: S
+Longitude: 15300.87119 Direction: E
+

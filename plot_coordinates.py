@@ -29,7 +29,7 @@ def read_file():
 
 		elif dataList[0] == 'Latitude:':
 			latitude = dataList[1]
-			if len(latitude) < 10:
+			if len(latitude) < 9:
 				continue #Error in the signal 
 			latDegrees = float(latitude[:2])
 			latFraction = float(latitude[2:])/60
@@ -41,7 +41,7 @@ def read_file():
 
 		elif dataList[0] == 'Longitude:':
 			longitude = dataList[1]
-			if len(longitude) < 11:
+			if len(longitude) < 10:
 				continue #Error in the signal 
 			lonDegrees = float(longitude[:3])
 	        lonFraction = float(longitude[3:])/60
@@ -54,6 +54,25 @@ def read_file():
 
 	fileIn.close()
 	return timeArray, latPoints, lonPoints
+
+#Calculate teh centroid of a set of data
+def centroid(latPoints, lonPoints):
+	xCentroid = sum(latPoints) / len(latPoints)
+	yCentroid = sum(lonPoints) / len(lonPoints)
+
+	centre = [xCentroid, yCentroid]
+
+	return centre
+
+#Calculate root mean square error from all the points
+def cal_RMSE(latPoints, lonPoints, centroidPoint):
+
+	meanSum = 0.0
+	for x, y in zip(range(0, len(latPoints)), range(0, len(lonPoints))):
+		meanSum = meanSum + (((latPoints[x] - centroidPoint[0])**2 + (lonPoints[y] - centroidPoint[1])**2))
+
+	return (meanSum/len(latPoints))**(0.5)
+
 
 #Read initial coordiante from user input or map to plot the base map and 
 #then plot the rest of the points 
@@ -82,7 +101,7 @@ def plot_points(timePoints, latPoints, lonPoints):
 		colA.append(col)
 		pathTemp.append(temp)
 
-	
+	print "Please add '.csv' to the name"
 	csvFile = raw_input("CSV File Name: ")	
 	f = open(csvFile, 'wt')
 	try:
@@ -110,6 +129,14 @@ def plot_points(timePoints, latPoints, lonPoints):
 
 	center = [latPlot, lonPlot]
 	dataset1.add_marker(center,color=colors[6],title='Center',text='Center')
+	
+	centroidPoint = centroid(latPoints, lonPoints)
+	RMSE = cal_RMSE(latPoints, lonPoints, centroidPoint)
+
+	dataset2 = DataSet('Centroid', title="Centroid" ,key_color=colors[5])
+	app1.datasets.append(dataset2)
+	dataset2.add_marker(centroidPoint,color=colors[5],title='Centroid',text='Centroid RMSE ' + str(RMSE))
+	
 	mymap.build_page(center=center,zoom=20,outfile=url)
 	
 	return 
